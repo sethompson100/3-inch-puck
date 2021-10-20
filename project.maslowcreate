@@ -1,0 +1,24 @@
+{
+    "atomType": "Molecule",
+    "name": "3 inch puck",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 971734,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9869791666666666,
+            "y": 0.5,
+            "uniqueID": 199377,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1,
+    "simplify": false,
+    "filetypeVersion": 1,
+    "circleSegmentSize": 2
+}
